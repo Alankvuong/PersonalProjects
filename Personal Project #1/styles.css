@@ -1,0 +1,42 @@
+.my-picture{
+	width: 15%;
+	height: auto;
+	position: relative;
+	left: 45%;
+	top: 25px;
+}
+
+.sheet-music-heading{
+	position: relative;
+	padding-top: 20px;
+	margin-top: 20px;
+	left: 10%;
+}
+.navbar-brand{
+	color:rgb(99, 226, 162)		!important;
+}
+
+.navbar-text{
+	padding-left: 10px;
+	padding-right: 10px;
+	color: white !important;
+}
+
+.row{
+	position: relative;
+	padding-left: 200px;
+}
+
+.music-card-column{
+	display: inline;
+	padding-right: 300px;
+}
+
+/* .music-card{
+	position: relative;
+
+}
+
+.music-card-3{
+	position: relative;
+} */
